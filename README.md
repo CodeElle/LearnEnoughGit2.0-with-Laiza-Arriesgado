@@ -58,3 +58,4 @@ Here, you will find the code snippets and exercises that is part of the book, al
 ## Additional Resources and References
 1. Hartl, M. (n.d.). "Learn Enough Git to Be Dangerous". Retrieved from https://www.learnenough.com/git-tutorial
 2. Creative Commons Attribution 2.0 Generic License. Retrieved from https://creativecommons.org/licenses/by/2.0
+3. Arriesgado, L. (2025). LearnEnoughGit2.0 with Laiza Arriesgado. Github. https://github.com.CodeElle/LearnEnoughGit2.0-with-Laiza-Arriesgado.git
